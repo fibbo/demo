@@ -1,0 +1,3 @@
+Hans Muster, A1.1, Intensiv, 1. Januar, 31. Januar
+Gabi Muster, B2.1, Intensiv, 1. Februar, 31. Februar
+John Doe, C1.1, Nicht-So-Intensiv, 1. März, 31. März
